@@ -1,0 +1,50 @@
+{
+	"formatVersion": 1,
+	"passTypeIdentifier": "pass.com.express-scripts.espassbook.igor",
+	"serialNumber": "123654",
+	"teamIdentifier": "64BC7FVMNA",
+	"barcode": {
+		"message": "G1015295365",
+		"format": "PKBarcodeFormatCode128",
+		"messageEncoding": "iso-8859-1"
+	},
+	"organizationName": "GOLDS GYM",
+	"description": "ID Card",
+	"logoText": "",
+	"foregroundColor": "rgb(255, 255, 255)",
+	"backgroundColor": "rgb(0, 0, 0)",
+	"labelColor": "rgb(255,215,0)",
+	"generic": {
+		"primaryFields": [{
+			"key": "memberName",
+			"label": "Member:",
+			"value": "$$Name$$"
+		}],
+		"secondaryFields": [{
+			"key": "memberName",
+			"label": "ID:",
+			"value": "G1015295365"
+		}],
+		"auxiliaryFields": [{
+			"key": "notice",
+			"label": "",
+			"value": ""
+		}],
+		"backFields": [{
+			"key": "nameBack",
+			"label": "GOLDS GYM",
+			"value": "Get stronger at Gold's Gym"
+		}, {
+			"key": "contactBack",
+			"label": "Contact",
+			"value": "800.99.GOLDS"
+		}, {
+			"key": "webBack",
+			"label": "WEB",
+			"value": "http://www.goldsgym.com"
+		}]
+	},
+	"maxDistance": 800,
+	"authenticationToken": "2ece029fc4b7abe8aedfe95fe2375815e2504cc58ad3111689e29f08f8dbb689",
+	"webServiceURL": "https://check-ins-staging.muasir.com"
+}

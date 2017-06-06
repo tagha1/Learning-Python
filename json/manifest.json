@@ -1,0 +1,9 @@
+{
+ "thumbnail.png":"$$Thumbnail$$",
+ "thumbnail@2x.png":"$$Strip2x$$",
+ "icon.png":"$$Icon$$",
+ "icon@2x.png":"$$Icon2x$$",
+ "logo.png":"$$Logo$$",
+ "logo@2x.png":"$$Logo2x$$",
+ "pass.json":"$$Pass$$"
+}
