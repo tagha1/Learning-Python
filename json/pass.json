@@ -1,6 +1,6 @@
 {
 	"formatVersion": 1,
-	"passTypeIdentifier": "pass.com.express-scripts.espassbook.igor",
+	"passTypeIdentifier": "pass.com",
 	"serialNumber": "123654",
 	"teamIdentifier": "64BC7FVMNA",
 	"barcode": {
@@ -46,5 +46,5 @@
 	},
 	"maxDistance": 800,
 	"authenticationToken": "2ece029fc4b7abe8aedfe95fe2375815e2504cc58ad3111689e29f08f8dbb689",
-	"webServiceURL": "https://check-ins-staging.muasir.com"
+	"webServiceURL": "webServiceURL"
 }
